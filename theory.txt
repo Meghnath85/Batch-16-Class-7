@@ -1,0 +1,17 @@
+==========CSS=========
+
+CSS=Cascading Style Sheet
+
+1. Inline CSS
+2. Internal CSS
+3. External CSS
+=====identifier=======
+
+1.tag
+2. class
+3. id
+
+====Some Special tags====
+<section></section>
+<div></div>
+<script></script/>
